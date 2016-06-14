@@ -1,0 +1,12 @@
+Objectives:
+-view list
+-add item
+-remove item
+-reorder items
+-edit name
+-mark item as complete
+
+
+Details:
+-give each <li> a checkbox for completion
+-give each <li> a button to rename item, delete as well?
